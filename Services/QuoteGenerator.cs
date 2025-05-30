@@ -1,6 +1,5 @@
 using QuoteGeneratorAPI.Models;
 using QuoteGeneratorAPI.Controllers;
-using Microsoft.AspNetCore.Http.HttpResults;
 using System.Text.Json;
 
 namespace QuoteGeneratorAPI.Services;

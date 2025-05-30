@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9qa+TUEwnQPnU1b18cA+NEpG6zuTLvWR7thI4FKrqTg=",
+  "Source": "QuoteGeneratorAPI",
+  "BasePath": "_content/QuoteGeneratorAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
